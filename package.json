@@ -11,16 +11,16 @@
     "cypress": "cypress open"
   },
   "dependencies": {
-    "@types/node": "20.5.7",
-    "@types/react": "18.2.21",
-    "@types/react-dom": "18.2.7",
+    "@types/node": "^20.10.5",
+    "@types/react": "^18.2.45",
+    "@types/react-dom": "^18.2.18",
     "axios": "^1.5.0",
-    "eslint": "8.48.0",
-    "eslint-config-next": "13.4.19",
-    "next": "13.4.19",
+    "eslint": "^8.56.0",
+    "eslint-config-next": "^14.0.4",
+    "next": "^14.0.4",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "typescript": "5.2.2"
+    "typescript": "^5.3.3"
   },
   "devDependencies": {
     "@rocketseat/eslint-config": "^2.1.0",
@@ -28,7 +28,7 @@
     "@testing-library/react": "^14.0.0",
     "@testing-library/user-event": "^14.4.3",
     "@types/jest": "^29.5.4",
-    "@types/testing-library__jest-dom": "5.14.5",
+    "@types/testing-library__jest-dom": "^6.0.0",
     "autoprefixer": "^10.4.15",
     "cypress": "^13.1.0",
     "eslint-plugin-cypress": "^2.14.0",
